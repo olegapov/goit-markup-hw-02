@@ -1,0 +1,71 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+/* ----header------ */
+.head-logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1, 17;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.head-logo-studio {
+  color: #2e2f42;
+}
+/* .head-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+  /* NAVY BLUE */
+
+  color: #2e2f42;
+} */
+
+/* SLATE */
+.head-item-adress {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* .hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.7;
+  text-align: center;
+  letter-spacing: 0.02em; */
+
+  /* WHITE */
+
+  color: #ffffff;
+}
+
+/* .btn-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+} */
+/* .btn-btn {
+  /* IRIS */
+  background: #4d5ae5;
+} */
+
+/* features */
+
+.features {
+}
+.features-title {
+}
+.features-item {
+}
