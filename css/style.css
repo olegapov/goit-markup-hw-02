@@ -108,6 +108,9 @@ body {
   color: #2e2f42;
 }
 /* Team */
+.team {
+  background-color: #f4f4fd;
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -133,7 +136,9 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.team-item {
+  background-color: #ffffff;
+}
 /* footer */
 .footer {
   font-family: "Raleway", sans-serif;
