@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 /* ----header------ */
 .header-adress {
@@ -44,6 +44,9 @@ body {
 .header-item-link:hover,
 .header-item-link:focus {
   color: #404bbf;
+}
+.header-item-link {
+  font-style: normal;
 }
 
 .header-adress:hover,
