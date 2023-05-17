@@ -89,6 +89,11 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
+.hero-btn-title:hover
+.hero-btn-title:focus
+{
+  background-color: #404BBF;
+}
 /* -----features----- */
 .features {
   background: #e5e5e5;
