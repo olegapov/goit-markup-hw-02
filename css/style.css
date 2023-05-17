@@ -48,6 +48,11 @@ body {
 .header-item-link:focus {
   color: #404bbf;
 }
+.header-logo:hover
+.header-logo:focus
+{
+  color: #404bbf;
+}
 .header-item-link {
   font-style: normal;
 }
