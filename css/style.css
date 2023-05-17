@@ -52,8 +52,8 @@ body {
   font-style: normal;
 }
 
-.header-adress:hover,
-.header-adress:focus {
+.header-address:hover,
+.header-address:focus {
   color: #404bbf;
 }
 /** ------HERO----- **/
