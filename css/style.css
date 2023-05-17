@@ -48,7 +48,8 @@ body {
 .header-item-link:focus {
   color: #404bbf;
 }
-.header-logo:hover .header-logo:focus {
+.header-logo:hover,
+.header-logo:focus {
   color: #404bbf;
 }
 .header-item-link {
@@ -92,10 +93,12 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.hero-btn-btn:hover .hero-btn-btn:focus {
+.hero-btn-btn:hover,
+.hero-btn-btn:focus {
   background-color: #404bbf;
 }
-.hero-btn-title:hover .hero-btn-title:focus {
+.hero-btn-title:hover,
+.hero-btn-title:focus {
   background-color: #404bbf;
 }
 /* -----features----- */
