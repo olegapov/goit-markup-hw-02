@@ -60,6 +60,10 @@ body {
 .header-address:focus {
   color: #404bbf;
 }
+.header-list-adress:hover,
+.header-list-adress:focus {
+  color: #404bbf;
+}
 /** ------HERO----- **/
 .hero {
   background: #2e2f42;
