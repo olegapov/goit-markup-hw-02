@@ -92,11 +92,15 @@ body {
 .header-list-adress:focus {
   color: #404bbf;
 }
+.header-list {
+ color: var(--navi-blue)
+}
 /** ------HERO----- **/
 .hero {
   background: #2e2f42;
 }
 .hero-title {
+
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
