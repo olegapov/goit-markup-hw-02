@@ -3,7 +3,35 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-}
+  }
+  :root {
+    --iris:#4D5AE5;
+    --ocean:#404BBF;
+    --navi-blue:#2E2F42;
+    --green:#31D0AA;
+    --slate:#434455;
+    --light-slate:#8E8F99;
+    --cornflower:#E7E9FC;
+    --cloud:#F4F4FD;
+    --navi-blue-modal:#2E2F42;
+    --grey:#2E2F42;
+    --white:#FFFFFF;
+    --dairy:#FCFCFC;
+    --title-header:Family: Roboto
+    Weight: Bold
+    Size: 56px
+    Letter Spacing: 2%
+    Line Height: 60px;
+    --header-2:Family: Roboto
+    Weight: Bold
+    Size: 36px
+    Letter Spacing: 2%;
+    --header-3:Family: Roboto
+    Weight: Medium
+    Size: 20px
+    Letter Spacing: 2%;
+    
+  }
 /* ----header------ */
 .header-address {
   font-style: normal;
