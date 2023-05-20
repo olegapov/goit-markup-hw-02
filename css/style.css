@@ -32,6 +32,26 @@ body {
     Letter Spacing: 2%;
     
   }
+  .list {
+    list-style: none;
+  }
+  .link {
+    text-decoration: none;
+  }
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+  }
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0
+    }
 /* ----header------ */
 .header-address {
   font-style: normal;
@@ -59,12 +79,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--slate)
 }
-.list {
-  list-style: none;
-}
-.link {
-  text-decoration: none;
-}
+
 .header-item-adress {
   font-weight: 400;
   font-size: 16px;
