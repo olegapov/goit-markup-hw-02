@@ -70,7 +70,7 @@ h6
 .header-logo-studio {
   color: var(--navi-blue-modal)
 }
-.header-address {
+.header-adress {
   font-style: normal;
   color: var(--slate);
 }
@@ -107,8 +107,8 @@ h6
   font-style: normal;
 }
 
-.header-address:hover,
-.header-address:focus {
+.header-adress:hover,
+.header-adress:focus {
   color: #404bbf;
 }
 .header-list {
