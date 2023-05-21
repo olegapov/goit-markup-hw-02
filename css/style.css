@@ -13,6 +13,11 @@ h6
  {
   margin: 0
   }
+  body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    }
   :root {
     --iris:#4D5AE5;
     --ocean:#404BBF;
@@ -41,11 +46,7 @@ h6
     Letter Spacing: 2%; */
     
   }
-  body {
-    font-family: "Roboto", sans-serif;
-    color: var(--slate);
-    background-color: var(--white);
-    }
+ 
   .list {
     list-style: none;
   }
