@@ -80,7 +80,7 @@ h6
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: var(--navi-blue)
 }
 
 .header-item-adress {
