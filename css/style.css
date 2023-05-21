@@ -1,8 +1,7 @@
 ul,
 ol {
   margin: 0;
-  padding: 0;
-}
+ }
 p,
 h1,
 h2,
@@ -84,7 +83,7 @@ h6
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate)
+  color: var(--slate);
 }
 
 .header-item-adress {
@@ -110,7 +109,7 @@ h6
 
 .header-address:hover,
 .header-address:focus {
-  color: var(--ocean);
+  color: #404bbf;
 }
 .header-list {
  color: var(--navi-blue);
