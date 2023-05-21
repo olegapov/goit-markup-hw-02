@@ -18,7 +18,7 @@ body {
     --white:#FFFFFF;
     --dairy:#FCFCFC;
     --title-header:Family: Roboto
-    Weight: Bold
+    /* Weight: Bold
     Size: 56px
     Letter Spacing: 2%
     Line Height: 60px;
@@ -29,7 +29,7 @@ body {
     --header-3:Family: Roboto
     Weight: Medium
     Size: 20px
-    Letter Spacing: 2%;
+    Letter Spacing: 2%; */
     
   }
   .list {
@@ -49,7 +49,8 @@ body {
   h3,
   h4,
   h5,
-  h6 {
+  h6
+   {
     margin: 0
     }
 /* ----header------ */
