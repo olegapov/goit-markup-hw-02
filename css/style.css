@@ -259,6 +259,14 @@ h6
   background-color:  var(--cloud);
   cursor: pointer;
 }
+.menu-btn:hover {
+  color: #FFFFFF;
+  background: #404BBF;
+}
+.menu-btn:focus {
+  color: #FFFFFF;
+  background:#404BBF;
+}
 .service-subtitle {
   font-weight: 500;
   font-size: 20px;
