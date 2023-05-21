@@ -64,7 +64,7 @@ h6
   line-height: 1.17;
    letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--iris);
+  color: var(--slate);
 }
 
 .header-logo-studio {
@@ -96,7 +96,7 @@ h6
 
 .header-logo:hover,
 .header-logo:focus {
-  color: var(--ocean);
+  color: #404bbf;
 }
 .header-item-link:hover,
 .header-item-link:focus {
@@ -256,7 +256,7 @@ h6
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--iris);
-  background-color:  var(--cloud);
+  background-color: var(--cloud);
   cursor: pointer;
 }
 .menu-btn:hover {
