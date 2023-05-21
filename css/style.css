@@ -71,7 +71,7 @@ h6
   line-height: 1.17;
    letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--navi-blue)
+  color: var(--iris);
 }
 .header-logo-studio {
   color: var(--navi-blue-modal)
@@ -91,18 +91,16 @@ h6
   letter-spacing: 0.02em;
   color: var(--slate)
 }
-.header-item-link:hover {
-  color: var(--ocean);
-}
-.header-item-link:focus {
-  color: var(--ocean);
-}
-.header-logo:hover {
-  color: var(--ocean);
-}
+
+.header-logo:hover,
 .header-logo:focus {
   color: var(--ocean);
 }
+.header-item-link:hover,
+.header-item-link:focus {
+  color: var(--ocean);
+}
+
 .header-item-link {
   font-style: normal;
 }
@@ -112,11 +110,11 @@ h6
   color: var(--ocean);
 }
 .header-list {
- color: var(--navi-blue)
+ color: var(--navi-blue);
 }
 /** ------HERO----- **/
 .hero {
-  background: var(--navi-blue)
+  background: var(--navi-blue);
 }
 .hero-title {
 
