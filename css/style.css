@@ -65,7 +65,10 @@ h6
    letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris)
-
+}
+.header-logo {
+  color: var(--iris);
+}
 .header-logo-studio {
   color: var(--grey)
 }
