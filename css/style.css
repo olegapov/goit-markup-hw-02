@@ -95,6 +95,10 @@ color: var(--grey);
 .header-adress {
   font-style: normal;
 }
+.header-adress-link {
+color: var(--slate);
+
+}
 
 .header-adress:hover,
 .header-adress:focus {
