@@ -95,9 +95,8 @@ color: var(--grey);
 .header-adress {
   font-style: normal;
 }
-.header-adress-link {
-color: var(--slate);
-
+.header-adress-tel {
+  color: var(--slate);
 }
 
 .header-adress:hover,
