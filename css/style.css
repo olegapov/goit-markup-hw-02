@@ -67,7 +67,7 @@ h6
   color: var(--iris)
 
 .header-logo-studio {
-  color: var(--navi-blue-modal)
+  color: var(--grey)
 }
 .header-adress {
   font-style: normal;
@@ -79,7 +79,7 @@ h6
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--navi-blue)
+  color: var(--grey)
 }
 
 .header-item-adress {
@@ -92,7 +92,7 @@ h6
 
 .header-logo:hover,
 .header-logo:focus {
-  color: #404bbf;
+  color: var(--ocean)
 }
 .header-item-link:hover,
 .header-item-link:focus {
@@ -100,6 +100,9 @@ h6
 }
 
 .header-item-link {
+  font-style: normal;
+}
+.header-adress {
   font-style: normal;
 }
 
@@ -112,7 +115,7 @@ h6
 }
 /** ------HERO----- **/
 .hero {
-  background: var(--navi-blue);
+  background: var(--grey)
 }
 .hero-title {
 
