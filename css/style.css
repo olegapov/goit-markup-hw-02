@@ -64,14 +64,6 @@ h6
   color: var(--slate);
 }
 
-/* .header-item-link {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-color: var(--grey);
-} */
-
 .header-item-adress {
   font-weight: 400;
   font-size: 16px;
@@ -98,11 +90,13 @@ color: var(--grey);
 .header-adress-contact {
   color: var(--slate);
 }
+.header-adress-contact:hover {
+  color: var(--ocean);
+}
+.header-adress-contact:focus {
+color: var(--ocean);
+}
 
-/* .header-adress:hover,
-.header-adress:focus {
-  color: #404bbf;
-} */
 .header-list {
  color: var(--navi-blue);
 }
