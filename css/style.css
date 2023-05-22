@@ -59,6 +59,12 @@ h6
 .header-logo-studio {
   color: var(--grey);
 }
+.header-item {
+  font-weight: 500;
+  font-style: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 .header-adress {
   font-style: normal;
   color: var(--slate);
