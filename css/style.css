@@ -91,6 +91,14 @@ h6
 .header-item-link {
   font-style: normal;
 }
+.header-adress-contact:hover {
+  color: var(--ocean);
+ }
+
+.header-adress-contact:focus {
+color: var(--ocean);
+}
+
 .header-adress {
   font-style: normal;
 }
@@ -98,14 +106,7 @@ h6
   color: var(--slate);
 }
 
-.header-adress-contact:hover {
-  color: var(--ocean);
-  
-}
 
-.header-adress-contact:focus {
-color: var(--ocean);
-}
 .header-list {
  color: var(--navi-blue);
 }
