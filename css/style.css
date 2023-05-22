@@ -97,10 +97,15 @@ h6
 .header-adress-contact {
   color: var(--slate);
 }
+
 .header-adress-contact:hover {
   color: var(--ocean);
+  
 }
 
+.header-adress-contact:focus {
+color: var(--ocean);
+}
 .header-list {
  color: var(--navi-blue);
 }
