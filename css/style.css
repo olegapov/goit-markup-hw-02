@@ -41,7 +41,9 @@ h6
   }
   
 /* ----header------ */
-
+/* .header-nav {
+  color: var(--navi-blue);
+} */
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -90,9 +92,6 @@ h6
 }
 .header-adress-contact:hover {
   color: var(--ocean);
-}
-.header-adress-contact:focus {
-color: var(--ocean);
 }
 
 .header-list {
